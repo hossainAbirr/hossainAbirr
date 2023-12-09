@@ -23,6 +23,8 @@
 </p>
 
 ### My Activity Streak
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hossainAbirr&theme=transparent" alt="GitHub Streak" /></a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hossainAbirr&theme=transparent" alt="GitHub Streak" /></a>
+
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={hossainAbirr}&theme={default}&exclude={html, css, js}
 
 
