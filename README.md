@@ -25,6 +25,16 @@
 ### My Activity Streak
 <a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hossainAbirr&theme=transparent" alt="GitHub Streak" /></a>
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={hossainAbirr}&theme={default}&exclude={html, css, js}
+### Summery Of My Profile
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossainAbirr&theme=nord_bright)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossainAbirr&theme=nord_bright)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossainAbirr&theme=nord_bright)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hossainAbirr&theme=nord_bright)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hossainAbirr&theme=nord_bright&utcOffset=8)
+
 
 
