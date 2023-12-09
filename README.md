@@ -27,11 +27,10 @@
 
 ### Summery Of My Profile
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossainAbirr&theme=nord_bright)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossainAbirr&theme=nord_bright)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossainAbirr&theme=nord_bright)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hossainAbirr&theme=nord_bright)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hossainAbirr&theme=nord_bright&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hossainAbirr&theme=nord_bright)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hossainAbirr&theme=nord_bright&utcOffset=8)
 
 
 
